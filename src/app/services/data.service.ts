@@ -10,7 +10,7 @@ export class DataService {
 
   private readonly http = inject(HttpClient);
   private readonly DATA_API_URL = 'https://api.pexels.com/v1/search';
-  private readonly API_KEY = 'JDntakeK8Uhg1wOIn04u1GK4NZLwCth51PBJLQkchBnoe8f21NaEuBKT';
+  private readonly API_KEY = '';
   private categories: string[] = [];
   private categoriesLoaded$ = new BehaviorSubject<boolean>(false);
   private selectedType = new BehaviorSubject<string>('animals');
