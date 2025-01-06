@@ -1,0 +1,13 @@
+{
+  "categories": [
+    "car",
+    "bike",
+    "truck",
+    "bus",
+    "plane",
+    "train",
+    "boat",
+    "helicopter",
+    "submarine"
+  ]
+}
