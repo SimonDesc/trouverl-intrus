@@ -1,59 +1,68 @@
-# Image
+# Trouver l'Intrus
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+## Introduction
 
-## Development server
+Ce projet est un exercice d'entraînement visant à développer une application Angular accessible via l'URL suivante :
 
-To start a local development server, run:
+🔗 [Trouver l'Intrus](https://trouver-l-intrus.web.app/)
 
-```bash
-ng serve
-```
+L'objectif est de proposer une interface interactive permettant aux utilisateurs d'identifier l'"intrus" parmi un ensemble d'éléments.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## Demo 👀
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+(Images à venir)
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Installation
 
-```bash
-ng generate --help
-```
+### Pré-requis
 
-## Building
+- Node.js & npm
+- Angular CLI
+- Clé API pour PEXELS
 
-To build the project run:
+### Installation & Lancement
 
-```bash
-ng build
-```
+1. Cloner le projet :
+   ```shell
+   git clone https://github.com/SimonDesc/trouverl-intrus.git
+   cd trouverl-intrus
+   ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+2. Installer les dépendances :
+   ```shell
+   npm install
+   ```
 
-## Running unit tests
+3. Lancer l'application en mode développement :
+   ```shell
+   ng serve
+   ```
+   L'application sera accessible sur `http://localhost:4200/`
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## Fonctionnalités
 
-## Running end-to-end tests
+- Personnalisation des catégories d'images à partir de fichier JSON
+- Interface dynamique construite avec Angular
+- Identification d'un élément "intrus" parmi une liste
+- Feedback interactif sur la réponse de l'utilisateur
+- Système de leveling
 
-For end-to-end (e2e) testing, run:
+---
 
-```bash
-ng e2e
-```
+## Stack technique
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+- **Frontend** : Angular
+- **Déploiement** : Firebase Hosting
 
-## Additional Resources
+---
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Auteur
+
+Projet d'entraînement réalisé par [SimonDesc](https://github.com/SimonDesc).
+
