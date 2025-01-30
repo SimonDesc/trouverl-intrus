@@ -1,6 +1,6 @@
 # Trouver l'Intrus
 
-## Introduction
+## Introduction 📄
 
 Ce projet est un exercice d'entraînement visant à développer une application Angular accessible via l'URL suivante :
 
@@ -18,13 +18,13 @@ L'objectif est de proposer une interface interactive permettant aux utilisateurs
 
 ## Installation
 
-### Pré-requis
+### Pré-requis 🛠️
 
 - Node.js & npm
 - Angular CLI
 - Clé API pour PEXELS
 
-### Installation & Lancement
+### Installation & Lancement 📦
 
 1. Cloner le projet :
    ```shell
@@ -45,7 +45,7 @@ L'objectif est de proposer une interface interactive permettant aux utilisateurs
 
 ---
 
-## Fonctionnalités
+## Fonctionnalités 🛠️
 
 - Personnalisation des catégories d'images à partir de fichier JSON
 - Interface dynamique construite avec Angular
@@ -55,7 +55,7 @@ L'objectif est de proposer une interface interactive permettant aux utilisateurs
 
 ---
 
-## Stack technique
+## Stack technique 🔬
 
 - **Frontend** : Angular
 - **Déploiement** : Firebase Hosting
