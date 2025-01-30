@@ -12,7 +12,7 @@ L'objectif est de proposer une interface interactive permettant aux utilisateurs
 
 ## Demo 👀
 
-(Images à venir)
+![Demo1](./chrome-capture-2025-1-30.gif)
 
 ---
 
